@@ -1,0 +1,9 @@
+1. login into my existing git account
+2. create a repository
+3. download git bash from the web
+4. copy the repository link
+5. create a group
+6. open git bash from selected folder
+7. command- git clone [copy repository link]
+8. show hidden file
+9. command- git satus
