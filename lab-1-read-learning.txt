@@ -2,6 +2,7 @@
 2. create a repository
 3. download git bash from the web
 4. copy the repository link
+<<<<<<< HEAD
 5. create a group for LAB
 6. open git bash (CLI Terminal) from selected folder
 7. command- git clone [copy repository link]
@@ -15,3 +16,10 @@
 15. command- git commit -m "massage"
 16. command- git push
 17. username and password for login info
+=======
+5. create a group
+6. open git bash (CLI Terminal) from selected folder
+7. command- git clone [copy repository link]
+8. show hidden file
+9. command- git satus
+>>>>>>> a80a1d456b292b6bec18b4d71c08e3f1b11be8d7
